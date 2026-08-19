@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** C, C++
+- **Languages:** C,Embedded C
 - **Microcontrollers:** STM32F4 (bare-metal/register-level), ESP32, Arduino
 - **Protocols:** GPIO, UART/USART, I2C, SPI, I2S
 - **Tools:** STM32CubeIDE, Arduino IDE
