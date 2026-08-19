@@ -20,6 +20,7 @@
 ### 📌 Featured Projects
 - 🚦 [4-Way Traffic Light Control System](https://github.com/KhushnudaShaik/4-Way-Traffic-Light-STM32) — Real-time traffic signal controller with countdown timers on STM32F411, built entirely with direct register access
 - 🔵 [Bluetooth-Based AC Load Switching System] (https://github.com/KhushnudaShaik/Bluetooth-AC-Load-Control-ESP32)
+- 🔌 [ESP32 Bluetooth 4-Channel Relay Control](https://github.com/KhushnudaShaik/ESP32-Bluetooth-4Channel-Relay-Control) — Wireless multi-device switching via Bluetooth Classic
 
 ---
 
